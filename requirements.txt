@@ -1,4 +1,4 @@
-# LangChain Core
+# Frameworks and technologies to build AI agents and applications
 langchain
 langchain-core
 langchain-community
